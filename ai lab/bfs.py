@@ -2,7 +2,7 @@ from collections import deque
 
 def bfs(graph, start):
     """
-    Breadth-First Search(BFS)
+    Breadth-First Search (BFS)
 
     Time Complexity: O(V + E)
     Space Complexity: O(V)
